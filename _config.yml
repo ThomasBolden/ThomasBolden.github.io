@@ -1,0 +1,17 @@
+title: Thomas Bolden
+email: boldenth@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A collection of my personal and open-sourced projects, along with other interesting things.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: thomasbolden
+github_username:  ThomasBolden
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

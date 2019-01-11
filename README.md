@@ -1,2 +1,3 @@
-# ThomasBolden.github.io
-web
+# tbolden.com
+
+Personal / professional website.
